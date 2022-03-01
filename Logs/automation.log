@@ -1,0 +1,100 @@
+02/22/2022 01:30:36 PM - INFO - Test_001_LoginAndVerify : *************** TEST 001 ***************
+02/22/2022 01:30:36 PM - INFO - Test_001_LoginAndVerify : Verifying Home Page
+02/22/2022 01:30:54 PM - INFO - Test_001_LoginAndVerify : Home Page test is PASSED
+02/22/2022 01:30:55 PM - INFO - Test_001_LoginAndVerify : Verifying Logging functionality
+02/22/2022 01:31:02 PM - INFO - Test_001_LoginAndVerify : Login Test is PASSED
+02/22/2022 06:45:43 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 06:45:43 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 09:00:26 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 09:00:26 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 09:13:40 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 09:13:40 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 09:14:01 PM - INFO - Test_002_LoginValidUsers : {'Test1': {'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}, 'Test2': {'username': 'xyz@abc.com', 'password': 'abcxyz', 'status': 'Fail'}}
+02/22/2022 09:30:19 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 09:30:19 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 09:30:25 PM - INFO - Test_002_LoginValidUsers : {'Test1': {'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}, 'Test2': {'username': 'xyz@abc.com', 'password': 'abcxyz', 'status': 'Fail'}}
+02/22/2022 09:30:25 PM - INFO - Test_002_LoginValidUsers : Test1
+02/22/2022 09:30:25 PM - INFO - Test_002_LoginValidUsers : Test2
+02/22/2022 09:32:05 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 09:32:05 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 09:32:07 PM - INFO - Test_002_LoginValidUsers : {'Test1': {'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}, 'Test2': {'username': 'xyz@abc.com', 'password': 'abcxyz', 'status': 'Fail'}}
+02/22/2022 09:32:07 PM - INFO - Test_002_LoginValidUsers : Test1
+02/22/2022 09:34:21 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 09:34:21 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 09:34:24 PM - INFO - Test_002_LoginValidUsers : [{'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}, {'username': 'xyz@abc.com', 'password': 'abcxyz', 'status': 'Fail'}]
+02/22/2022 09:34:24 PM - INFO - Test_002_LoginValidUsers : {'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}
+02/22/2022 09:34:24 PM - INFO - Test_002_LoginValidUsers : admin@yourstore.com
+02/22/2022 09:34:24 PM - INFO - Test_002_LoginValidUsers : {'username': 'xyz@abc.com', 'password': 'abcxyz', 'status': 'Fail'}
+02/22/2022 09:34:24 PM - INFO - Test_002_LoginValidUsers : xyz@abc.com
+02/22/2022 09:35:02 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 09:35:02 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 09:35:04 PM - INFO - Test_002_LoginValidUsers : [{'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}, {'username': 'xyz@abc.com', 'password': 'abcxyz', 'status': 'Fail'}]
+02/22/2022 09:35:04 PM - INFO - Test_002_LoginValidUsers : {'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}
+02/22/2022 09:35:04 PM - INFO - Test_002_LoginValidUsers : admin@yourstore.com
+02/22/2022 09:35:08 PM - INFO - Test_002_LoginValidUsers : Test has PASSEDadmin@yourstore.com
+02/22/2022 09:43:04 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 09:43:04 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 09:43:24 PM - INFO - Test_002_LoginValidUsers : [{'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}, {'username': 'xyz@abc.com', 'password': 'abcxyz', 'status': 'Fail'}]
+02/22/2022 09:43:24 PM - INFO - Test_002_LoginValidUsers : {'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}
+02/22/2022 09:43:24 PM - INFO - Test_002_LoginValidUsers : admin@yourstore.com
+02/22/2022 09:43:28 PM - INFO - Test_002_LoginValidUsers : Test has PASSEDadmin@yourstore.com
+02/22/2022 09:44:25 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 09:44:25 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 09:44:27 PM - INFO - Test_002_LoginValidUsers : [{'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}, {'username': 'xyz@abc.com', 'password': 'abcxyz', 'status': 'Fail'}]
+02/22/2022 09:44:27 PM - INFO - Test_002_LoginValidUsers : {'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}
+02/22/2022 09:44:27 PM - INFO - Test_002_LoginValidUsers : admin@yourstore.com
+02/22/2022 09:45:01 PM - INFO - Test_002_LoginValidUsers : Test has PASSEDadmin@yourstore.com
+02/22/2022 09:45:02 PM - INFO - Test_002_LoginValidUsers : {'username': 'xyz@abc.com', 'password': 'abcxyz', 'status': 'Fail'}
+02/22/2022 09:45:02 PM - INFO - Test_002_LoginValidUsers : xyz@abc.com
+02/22/2022 09:45:03 PM - INFO - Test_002_LoginValidUsers : Test has FAILEDxyz@abc.com
+02/22/2022 09:53:55 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 09:53:55 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 09:54:14 PM - INFO - Test_002_LoginValidUsers : [{'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}, {'username': 'xyz@abc.com', 'password': 'abcxyz', 'status': 'Fail'}]
+02/22/2022 09:54:14 PM - INFO - Test_002_LoginValidUsers : {'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}
+02/22/2022 09:54:14 PM - INFO - Test_002_LoginValidUsers : admin@yourstore.com
+02/22/2022 09:54:18 PM - INFO - Test_002_LoginValidUsers : Test has PASSED for user: admin@yourstore.com
+02/22/2022 09:59:13 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 09:59:13 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 09:59:15 PM - INFO - Test_002_LoginValidUsers : [{'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}, {'username': 'xyz@abc.com', 'password': 'abcxyz', 'status': 'Fail'}]
+02/22/2022 09:59:19 PM - INFO - Test_002_LoginValidUsers : Test has PASSED for user: admin@yourstore.com
+02/22/2022 10:05:19 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 10:05:19 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 10:05:22 PM - INFO - Test_002_LoginValidUsers : [{'username': 'admin@yourstore.com', 'password': 'admin', 'status': 'Pass'}, {'username': 'xyz@abc.com', 'password': 'abcxyz', 'status': 'Fail'}]
+02/22/2022 10:05:42 PM - INFO - Test_002_LoginValidUsers : Test has PASSED for user: admin@yourstore.com
+02/22/2022 10:05:46 PM - INFO - Test_002_LoginValidUsers : Test has FAILED for user: xyz@abc.com
+02/22/2022 10:07:21 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 10:07:21 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 10:07:42 PM - INFO - Test_002_LoginValidUsers : Test has PASSED for user: admin@yourstore.com
+02/22/2022 10:08:15 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/22/2022 10:08:15 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/22/2022 10:08:20 PM - INFO - Test_002_LoginValidUsers : Test has PASSED for user: admin@yourstore.com
+02/22/2022 10:08:23 PM - INFO - Test_002_LoginValidUsers : Test has FAILED for user: xyz@abc.com
+02/23/2022 03:06:21 AM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/23/2022 03:06:21 AM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/23/2022 03:06:29 AM - INFO - Test_002_LoginValidUsers : Test has PASSED for user: admin@yourstore.com
+02/23/2022 03:08:42 AM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/23/2022 03:08:42 AM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/23/2022 03:08:49 AM - INFO - Test_002_LoginValidUsers : Test has PASSED for user: admin@yourstore.com
+02/23/2022 03:09:36 AM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/23/2022 03:09:36 AM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/23/2022 03:09:42 AM - INFO - Test_002_LoginValidUsers : Test has PASSED for user: admin@yourstore.com
+02/23/2022 03:16:02 AM - INFO - Test_001_LoginAndVerify : *************** TEST 001 ***************
+02/23/2022 03:16:02 AM - INFO - Test_001_LoginAndVerify : Verifying Home Page
+02/23/2022 03:16:05 AM - INFO - Test_001_LoginAndVerify : Home Page test is PASSED
+02/23/2022 03:16:06 AM - INFO - Test_001_LoginAndVerify : Verifying Logging functionality
+02/23/2022 03:16:28 AM - INFO - Test_001_LoginAndVerify : Login Test is PASSED
+02/23/2022 03:16:29 AM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/23/2022 03:16:29 AM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/23/2022 03:16:50 AM - INFO - Test_002_LoginValidUsers : Test has PASSED for user: admin@yourstore.com
+02/23/2022 03:16:55 AM - INFO - Test_002_LoginValidUsers : Test has FAILED for user: xyz@abc.com
+02/23/2022 03:18:07 AM - INFO - Test_001_LoginAndVerify : *************** TEST 001 ***************
+02/23/2022 03:18:07 AM - INFO - Test_001_LoginAndVerify : Verifying Home Page
+02/23/2022 03:18:12 AM - INFO - Test_001_LoginAndVerify : Home Page test is PASSED
+02/23/2022 03:18:13 AM - INFO - Test_001_LoginAndVerify : Verifying Logging functionality
+02/23/2022 03:18:24 AM - INFO - Test_001_LoginAndVerify : Login Test is PASSED
+02/23/2022 03:18:26 AM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/23/2022 03:18:26 AM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/23/2022 03:18:31 AM - INFO - Test_002_LoginValidUsers : Test has PASSED for user: admin@yourstore.com
+02/24/2022 08:19:15 PM - INFO - Test_002_LoginValidUsers : *************** TEST 002 ***************
+02/24/2022 08:19:15 PM - INFO - Test_002_LoginValidUsers : Verifying Logging functionality
+02/24/2022 08:19:30 PM - INFO - Test_002_LoginValidUsers : Test has PASSED for user: admin@yourstore.com

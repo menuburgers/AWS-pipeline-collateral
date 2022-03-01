@@ -1,0 +1,12 @@
+[
+  {
+    "username": "admin@yourstore.com",
+    "password": "admin",
+    "status": "Pass"
+  },
+  {
+    "username": "xyz@abc.com",
+    "password": "abcxyz",
+    "status": "Fail"
+  }
+]
